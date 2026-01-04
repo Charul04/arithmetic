@@ -6,7 +6,7 @@ Arithmetic is a Sugar activity that helps learners improve their mental math ski
 
 ## Screenshot
 Arithmetic Activity Screenshot
-(https://raw.githubusercontent.com/sugarlabs/arithmetic/master/screenshots/1.png)
+(screenshots/1.png)
 
 # Features
 
