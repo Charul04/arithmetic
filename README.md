@@ -2,13 +2,6 @@
 
 Arithmetic is a Sugar activity that helps learners improve their mental math skills through interactive, timed arithmetic puzzles.
 
-
-## Screenshot
-
-Arithmetic Activity Screenshot
-
-![Arithmetic Activity Screenshot](screenshots/1.png)
-
 # Features
 
 1. Multiple difficulty levels (<10, <20, <50) to support progressive learning.
@@ -22,7 +15,9 @@ Arithmetic Activity Screenshot
 * Multiplication
 
 * Division
+  
 * Factorial
+  
 * Modular Addition
 
 3. Generates questions based on selected difficulty and operation.
