@@ -2,7 +2,7 @@
 
 Arithmetic is a Sugar activity that helps learners improve their mental math skills through interactive, timed arithmetic puzzles.
 
-# Features
+## Features
 
 1. Multiple difficulty levels (<10, <20, <50) to support progressive learning.
 
@@ -28,7 +28,7 @@ Arithmetic is a Sugar activity that helps learners improve their mental math ski
 
 6. Displays response time for each question.
 
-# How to Use
+## How to Use
 
 1. The player selects a difficulty level.
 
@@ -40,7 +40,7 @@ Arithmetic is a Sugar activity that helps learners improve their mental math ski
 
 5. Scores and response times are recorded and displayed in a tabular format.
 
-# Use Cases
+## Use Cases
 
 Arithmetic is designed for:
 
@@ -50,6 +50,6 @@ Arithmetic is designed for:
 
 * Learners of different age groups through adjustable difficulty.
 
-# License
+## License
 
 This project is distributed under the terms of the GNU General Public License (GPL), see COPYING for details. The repository contains a GPL v2 license copy.
