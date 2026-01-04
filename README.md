@@ -8,17 +8,17 @@ Arithmetic is a Sugar activity that helps learners improve their mental math ski
 
 2. Supports basic arithmetic operations:
 
-* Addition
+ * Addition
 
-* Subtraction
+ * Subtraction
 
-* Multiplication
+ * Multiplication
 
-* Division
+ * Division
   
-* Factorial
+ * Factorial
   
-* Modular Addition
+ * Modular Addition
 
 3. Generates questions based on selected difficulty and operation.
 
