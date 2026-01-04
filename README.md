@@ -1,12 +1,13 @@
-
 # Arithmetic 
 
 Arithmetic is a Sugar activity that helps learners improve their mental math skills through interactive, timed arithmetic puzzles.
 
 
 ## Screenshot
+
 Arithmetic Activity Screenshot
-(screenshots/1.png)
+
+![Arithmetic Activity Screenshot](screenshots/1.png)
 
 # Features
 
